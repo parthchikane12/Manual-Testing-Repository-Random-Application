@@ -1,0 +1,49 @@
+Title: Manual Testing Plan – Random Application
+
+1. Introduction
+
+Purpose: To ensure all features of the Random Application function correctly and meet requirements.
+
+Scope: Login, Dashboard, Task Management, Settings, and Notifications.
+
+Testing Type: Manual Functional Testing, UI Testing, Usability Testing.
+
+2. Objectives
+
+Verify that all core functionalities work as expected.
+
+Detect defects and inconsistencies in the application.
+
+Ensure smooth user experience.
+
+3. Features to be Tested
+
+Login/Logout
+
+Dashboard display
+
+Add/Edit/Delete Task
+
+Settings update
+
+Notifications
+
+4. Features Not in Scope
+
+API performance testing
+
+Automated testing
+
+5. Resources
+
+Testers: QA team
+
+Tools: Excel for test cases, screenshots for bug reporting
+
+6. Schedule
+
+Test planning: 1 day
+
+Test execution: 3 days
+
+Bug reporting & closure: 2 days
